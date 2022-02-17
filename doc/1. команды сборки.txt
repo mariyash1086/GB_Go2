@@ -1,0 +1,2 @@
+GOOS=linux GOARCH=ppc64 go build
+file app
